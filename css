@@ -1,0 +1,64 @@
+
+section.success {
+  background:#444 url(../img/bg.png);
+}
+
+header {
+  background:#444 url(../img/bg.png);
+}
+#star:after {
+  background:#444 url(../img/bg.png);
+}
+hr.star-light:after {
+    background-color: #444;
+}
+
+.navbar-custom .navbar-nav li.active a, .navbar-custom .navbar-nav li.active a:active, .navbar-custom .navbar-nav li.active a:focus, .navbar-custom .navbar-nav li.active a:hover {
+    background: #444;
+}
+
+div.portfolio-item img,div.portfolio-item .caption{
+  border-radius:10px;
+}
+
+div.portfolio-item img:hover,div.portfolio-item .caption:hover {
+  box-shadow: 0px 0px 50px #000;
+  -webkit-transition:all ease-in-out 500ms;
+}
+
+
+
+#portfolio .portfolio-item .portfolio-link .caption {
+  background:#444;
+}
+
+
+#logoImg {
+  box-shadow:0px 0px 30px #000;
+}
+
+.btn-success {
+    background: #444;
+    border-color: #333;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #222;
+    border-color: #333;
+}
+
+.navbar-custom .navbar-nav li a:hover {
+    color: #666;
+    outline: 0;
+}
+
+.btn-outline:hover {
+    color: #444;
+}
+
+#bs-example-navbar-collapse-1{}
+
+#myPortfolio{
+  font-family: 'Berkshire Swash', cursive;
+}
